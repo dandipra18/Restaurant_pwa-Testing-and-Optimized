@@ -9,7 +9,7 @@ class AppFooter extends HTMLElement {
     this.innerHTML = `
       <p>
         &copy; Copyright 2024 &dash; <a href="/">Dand's Resto</a> | 
-        <a href="" target="_blank" >View on Github</a>
+        <a href="https://github.com/dandipra18/Restaurant_pwa-Testing-and-Optimized.git" target="_blank" >View on Github</a>
       </p>
       `;
   }
